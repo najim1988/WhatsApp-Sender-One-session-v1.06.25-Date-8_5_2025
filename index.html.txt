@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>مرسل الواتساب الذكي – إصدار 1.06.25</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f2f2f2;
+            text-align: center;
+            padding: 50px;
+        }
+        .box {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+            max-width: 500px;
+            margin: auto;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            color: #444;
+            font-size: 18px;
+        }
+        .download-btn {
+            display: inline-block;
+            padding: 15px 25px;
+            margin-top: 20px;
+            background-color: #2ecc71;
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 18px;
+        }
+        .download-btn:hover {
+            background-color: #27ae60;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>مرسل الواتساب الذكي – إصدار 1.06.25</h1>
+        <p>نسخة احترافية تدعم جلسة واحدة، إرسال موحد ومخصص، تقارير Excel، دعم المرفقات، وفحص الرقم قبل الإرسال.</p>
+        <a class="download-btn" href="https://drive.google.com/uc?export=download&id=1UtCOnIEDpm8xQl9_b7rUJkuKm5J5Y4KC" target="_blank">
+            تحميل البرنامج الآن
+        </a>
+    </div>
+</body>
+</html>
